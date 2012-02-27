@@ -1,0 +1,4 @@
+#define FILEVER  00055
+#define PRODUCTVER  00055
+#define STRFILEVER  "00002"
+#define STRPRODUCTVER  "00002"
